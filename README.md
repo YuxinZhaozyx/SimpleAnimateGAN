@@ -22,5 +22,5 @@ python train.py
 python eval.py
 ```
 
-The generated image can be found at folder `generated/ `.
+The generated images can be found at folder `generated/ `.
 
